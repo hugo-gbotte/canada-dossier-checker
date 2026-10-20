@@ -1,5 +1,5 @@
 # Canada Dossier Checker - WES Verification Tool
-🇨🇦 → 🇨🇮 → 🇨🇳
+🇨🇮 → 🇨🇳 → 🇨🇦
 
 **Author:** Hugo Gbotte - Data Science & Big Data Technology
 **University:** Sichuan University of Culture and Arts, Mianyang
